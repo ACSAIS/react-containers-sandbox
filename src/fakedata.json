@@ -1,0 +1,11 @@
+{
+  "contacts": [
+    {"id": 5, "name": "Mickey Mouse", "organizationId": 1},
+    {"id": 6, "name": "Donald Duck", "organizationId": 1},
+    {"id": 7, "name": "Jon Snow", "organizationId": 2}
+  ],
+  "organizations": [
+    {"id": 1, "name": "Disney Land", "headquarter": "France", "numberOfEmployees": 45},
+    {"id": 2, "name": "The wall", "headquarter": "Winterfell", "numberOfEmployees": 120}
+  ]
+}
